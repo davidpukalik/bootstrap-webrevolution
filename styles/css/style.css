@@ -11975,7 +11975,7 @@ fieldset:disabled .btn {
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 2em;
+  scroll-padding-top: 4em;
 }
 
 body {
